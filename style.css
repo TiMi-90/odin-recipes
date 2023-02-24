@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 800px;
+}
+
+.recipe-index ul li{
+    list-style: none;
+}
